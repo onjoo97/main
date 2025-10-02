@@ -1,19 +1,19 @@
 var namMember = new Array(
-"<img src=> <br>DUST ON YOUR MIND</br>",
-"<img src=> <br>No man's land (feat. Qim Isle)</br>",
-"<img src=> <br>save me</br>",
-"<img src=> <br>MIRROR</br>",
-"<img src=> <br>Put it back on</br>",
-"<img src=> <br>TO</br>",
-"<img src=> <br>Take pills</br>",
-"<img src=> <br>Another season with you</br>",
-"<img src=> <br>Karma calls</br>",
-"<img src=> <br>Lovers of Artists</br>",
-"<img src=> <br>Television star</br>",
-"<img src=> <br>You broke my heart but..</br>",
-"<img src=> <br>in the middle</br>",
-"<img src=> <br>Your Yerin (feat. Rejjie Snow)</br>",
-"<img src=> <br>Teary lover</br>"
+"<br>DUST ON YOUR MIND</br>",
+"<br>No man's land (feat. Qim Isle)</br>",
+"<br>save me</br>",
+"<br>MIRROR</br>",
+"<br>Put it back on</br>",
+"<br>TO</br>",
+"<br>Take pills</br>",
+"<br>Another season with you</br>",
+"<br>Karma calls</br>",
+"<br>Lovers of Artists</br>",
+"<br>Television star</br>",
+"<br>You broke my heart but..</br>",
+"<br>in the middle</br>",
+"<br>Your Yerin (feat. Rejjie Snow)</br>",
+"<br>Teary lover</br>"
 );
 
 var lstMember = new Array();
