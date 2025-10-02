@@ -1,4 +1,3 @@
-```javascript
 var namMember = new Array(
 "<img src=> <br>DUST ON YOUR MIND</br>",
 "<img src=> <br>No man's land (feat. Qim Isle)</br>",
@@ -218,6 +217,5 @@ function toNameFace(n){
 var str = namMember[n];
 return str;
 }
-```
 
 ---
