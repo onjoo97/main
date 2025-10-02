@@ -1,19 +1,19 @@
 var namMember = new Array(
-"<br>DUST ON YOUR MIND</br>",
-"<br>No man's land (feat. Qim Isle)</br>",
-"<br>save me</br>",
-"<br>MIRROR</br>",
-"<br>Put it back on</br>",
-"<br>TO</br>",
-"<br>Take pills</br>",
-"<br>Another season with you</br>",
+"<br>DUST ON YOUR MIND<br>",
+"<br>No man's land (feat. Qim Isle)<br>",
+"<br>save me<br>",
+"<br>MIRROR<br>",
+"<br>Put it back on<br>",
+"<br>TO<br>",
+"<br>Take pills<br>",
+"<br>Another season with you<br>",
 "<br>Karma calls</br>",
-"<br>Lovers of Artists</br>",
-"<br>Television star</br>",
-"<br>You broke my heart but..</br>",
-"<br>in the middle</br>",
-"<br>Your Yerin (feat. Rejjie Snow)</br>",
-"<br>Teary lover</br>"
+"<br>Lovers of Artists<br>",
+"<br>Television star<br>",
+"<br>You broke my heart but..<br>",
+"<br>in the middle<br>",
+"<br>Your Yerin (feat. Rejjie Snow)<br>",
+"<br>Teary lover<br>"
 );
 
 var lstMember = new Array();
