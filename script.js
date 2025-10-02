@@ -217,5 +217,3 @@ function toNameFace(n){
 var str = namMember[n];
 return str;
 }
-
----
