@@ -1,19 +1,19 @@
 var namMember = new Array(
-"<br>DUST ON YOUR MIND<br>",
-"<br>No man's land (feat. Qim Isle)<br>",
-"<br>save me<br>",
-"<br>MIRROR<br>",
-"<br>Put it back on<br>",
-"<br>TO<br>",
-"<br>Take pills<br>",
-"<br>Another season with you<br>",
-"<br>Karma calls</br>",
-"<br>Lovers of Artists<br>",
-"<br>Television star<br>",
-"<br>You broke my heart but..<br>",
-"<br>in the middle<br>",
-"<br>Your Yerin (feat. Rejjie Snow)<br>",
-"<br>Teary lover<br>"
+"DUST ON YOUR MIND",
+"No man's land (feat. Qim Isle)",
+"save me",
+"MIRROR",
+"Put it back on",
+"TO",
+"Take pills",
+"Another season with you",
+"Karma calls", // <-- 닫는 태그가 </br>로 잘못된 부분도 해결됩니다.
+"Lovers of Artists",
+"Television star",
+"You broke my heart but..",
+"in the middle",
+"Your Yerin (feat. Rejjie Snow)",
+"Teary lover"
 );
 
 var lstMember = new Array();
